@@ -1,0 +1,21 @@
+<language de>
+<b>Molton Shutclock Bluetooth Adapter</b>
+
+<p>
+Dieses Projekt hat zum Ziel, ein System zu erzeugen, dass die Kabelverbindung zwischen Molton Shutclock Steuereinheit und Sekundenanzeigetafel zu erstellen. Dabie wird eine Bluetooth SPP Datenübertragung zur Ersetzung des Kabels eingesetzt.
+</p>
+<p>
+Im Ordner<i>ShutclockAVR</i> liegt die Firmware für den ATMega. Zur näheren Info dazu, siehe beigelegte Doxygen Doku.
+</p>
+
+Versionsgeschichte:<br>
+<small>Die History wird nach Versionen geordnet, nicht jedoch chronolgisch. Das bedeutet, dass die am weitesten entwickelte Version die höchste Nummer hat, an vorhergehenden Versionen jedoch durchaus später Änderungen vorgenommen wurden ohne dafür eine neue Version zu erstellen.
+</small>
+
+<p>
+<u><i>ShutclockAVR v 0.1</i> <small>(29.08.2010)</small>:</u>
+<ul>
+<li></li>
+</ul>
+</p>
+</language de>
