@@ -1,5 +1,5 @@
 <language de>
-<b>Molton Shutclock Bluetooth Adapter</b>
+<b>Molton Shotclock Bluetooth Adapter</b>
 
 <p>
 Dieses Projekt hat zum Ziel, ein System zu erzeugen, dass die Kabelverbindung zwischen Molton Shutclock Steuereinheit und Sekundenanzeigetafel zu erstellen. Dabie wird eine Bluetooth SPP Datenübertragung zur Ersetzung des Kabels eingesetzt.
@@ -13,7 +13,7 @@ Versionsgeschichte:<br>
 </small>
 
 <p>
-<u><i>ShutclockAVR v 0.1</i> <small>(29.08.2010)</small>:</u>
+<u><i>ShotclockAVR v 0.1</i> <small>(29.08.2010)</small>:</u>
 <ul>
 <li></li>
 </ul>
